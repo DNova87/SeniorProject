@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nova.questionaire">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".One1" ></activity>
+        <activity android:name=".One2" ></activity>
+        <activity android:name=".One3" ></activity>
+        <activity android:name=".One4" ></activity>
+        <activity android:name=".One5" ></activity>
+        <activity android:name=".One6" ></activity>
+        <activity android:name=".One7" ></activity>
+        <activity android:name=".One8" ></activity>
+        <activity android:name=".One9" ></activity>
+        <activity android:name=".One10" ></activity>
+        <activity android:name=".One11" ></activity>
+        <activity android:name=".One12" ></activity>
+        <activity android:name=".Two1" ></activity>
+        <activity android:name=".Two2" ></activity>
+        <activity android:name=".Two3" ></activity>
+        <activity android:name=".Two4" ></activity>
+        <activity android:name=".Two5" ></activity>
+        <activity android:name=".Two6" ></activity>
+        <activity android:name=".Two7" ></activity>
+        <activity android:name=".Two8" ></activity>
+        <activity android:name=".Two9" ></activity>
+        <activity android:name=".Section2" ></activity>
+        <activity android:name=".End" ></activity>
+    </application>
+
+</manifest>
